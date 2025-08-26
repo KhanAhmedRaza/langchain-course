@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Ahmed\\.virtualenvs\\ice_breaker-VWK8FurT\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.envFile": "${workspaceFolder}/.env"
+}
+
+
